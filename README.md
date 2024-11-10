@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**JordanDaudu/JordanDaudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
-Here are some ideas to get you started:
+**I love working with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="flex">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</div>
+
+### 🔭 I’m working on
+
+- Learning in SCE
+
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</div>
+
+### 🤔 I’m looking for help with
+
+- ###
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="mailto:jordaDa@ac.ace.ac.il">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+### ⚡ Fun fact
+
+...
