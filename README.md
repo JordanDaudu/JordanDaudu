@@ -5,7 +5,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="20" alt="C++"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </div>
 
