@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Jordan
 
 I'm learning right now python and c++
 
