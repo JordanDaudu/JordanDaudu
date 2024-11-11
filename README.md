@@ -18,6 +18,7 @@ I'm learning right now python and c++
 <div display="flex">
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="28" alt="C++"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="28" alt="Github"/>
 </div>
 
 ### 🤔 I’m looking for help with
