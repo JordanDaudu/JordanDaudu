@@ -8,7 +8,7 @@ Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLF
 </p>
 
 <h2 align="left" id="JordanDaudu"> </h2>
-I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>, focusing on python and c++ as of now
+Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>, right now I'm focusing on learning and better understanding python and c++
 
 <h2 align="left" id="JordanDaudu">💻 I love working with</h2>
 
