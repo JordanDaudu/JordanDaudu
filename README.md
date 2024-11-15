@@ -46,4 +46,4 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 </div>
 
 ### ⚡ Fun fact
-I probably know more about zemuria than earth
+- ...
