@@ -34,9 +34,6 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   
 </div>
 
-### 🤔 I’m looking for help with
-
-- ...
 
 ### 📫 How to reach me
 
@@ -46,5 +43,4 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   </a>
 </div>
 
-### ⚡ Fun fact
-- ...
+
