@@ -20,18 +20,6 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="./icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -41,6 +29,18 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
         <img src="./icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
     </td>
   </tr>
   <tr>
@@ -88,4 +88,4 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 <h2 align="left" id="JordanDaudu">🔥 My stats: </h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jordandaudu&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="jordandaudu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandaudu&show_icons=true&locale=en&layout=compact&theme=radical" alt="jordandaudu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandaudu&show_icons=true&locale=en&layout=compact&theme=radical&hide=ShaderLab,HLSL" alt="jordandaudu" /></p>
