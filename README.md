@@ -62,7 +62,7 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/cv.png" width="320" height="350" />
 
 
-- Learning in SCE
+- Learning advanced object oriented programming using java in SCE
 
 ### 🌱 I’m learning
 
@@ -88,4 +88,4 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 <h2 align="left" id="JordanDaudu">🔥 My stats: </h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jordandaudu&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="jordandaudu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandaudu&show_icons=true&locale=en&layout=compact&theme=radical&hide=ShaderLab,HLSL" alt="jordandaudu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandaudu&show_icons=true&locale=en&layout=compact&theme=radical&hide=ShaderLab,HLSL,Cmake" alt="jordandaudu" /></p>
