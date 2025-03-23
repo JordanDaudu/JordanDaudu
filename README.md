@@ -10,7 +10,7 @@ Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLF
 <h2 align="left" id="JordanDaudu">🙋‍♂️ About Me</h2>
 
 <img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/img2.png" width="140" height="100" />
-Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>, right now I'm focusing on learning and better understanding python and java
+Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>. Currently, I'm focused on learning and deepening my understanding of python and java.
 
 <h2 align="left" id="JordanDaudu">💻 Languages and Tools:</h2>
 
@@ -78,13 +78,24 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 
 ### 📫 How to reach me
 
-<div display="flex">
-  <a href="mailto:jordaDa@ac.ace.ac.il">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="mailto:jordandaudu@gmail.com">
+        <img src="./icons/gmail/gmail.svg" width="48" height="48" alt="gmail" />
+      </a>
+      <br>Gmail
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/jordan-daudu-cpp-python-java/">
+        <img src="./icons/linkedin/linkedin-original.svg" width="48" height="48" alt="linkedin" />
+      </a>
+      <br>Linkedin
+    </td>
+  </tr>
+</table>
 
-<br><br><br>
+<br><br>
 <h2 align="left" id="JordanDaudu">🔥 My stats: </h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jordandaudu&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="jordandaudu" /></p>
