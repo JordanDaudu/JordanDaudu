@@ -12,9 +12,11 @@ Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLF
 <img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/img2.png" width="140" height="100" />
 Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>. Currently, I'm focused on learning and deepening my understanding of python and java.
 
-<h2 align="left" id="JordanDaudu">💻 Languages and Tools:</h2>
+<h2 align="left" id="JordanDaudu">💻 Dev-Hub</h2>
 
 <img align="right" alt="IMAGE" src="img1-PNG.png" width="160" height="200" />
+
+> Programming languages
 
 <table>
   <tr>
@@ -42,7 +44,38 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
       </a>
       <br>C#
     </td>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/godot/godot-original.svg" width="48" height="48" alt="GDScript" />
+      </a>
+      <br>GDScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>  
   </tr>
+</table>
+
+> Tools
+
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#">
@@ -56,6 +89,39 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+      </a>
+      <br>VSCode
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/pycharm/pycharm-original.svg" width="48" height="48" alt="pycharm" />
+      </a>
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/intellij/intellij-original.svg" width="48" height="48" alt="intellij" />
+      </a>
+      <br>Intellij Idea
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/clion/clion-original.svg" width="48" height="48" alt="clion" />
+      </a>
+      <br>CLion
+    </td>
+  </tr>  
+  </tr>
 </table>
 
 <h2 align="left" id="JordanDaudu">⌨️ I’m working on</h2>
@@ -63,18 +129,6 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 
 
 - Learning advanced object oriented programming using java in SCE
-
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="30" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="30" alt="Github"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" height="30" alt="Git"/>
-  
-</div>
-
 
 ### 📫 How to reach me
 
