@@ -104,6 +104,12 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="./icons/postgresql/postgresql-original.svg" width="48" height="48" alt="pycharm" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./icons/pycharm/pycharm-original.svg" width="48" height="48" alt="pycharm" />
       </a>
       <br>PyCharm
