@@ -142,6 +142,57 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   </tr>
 </table>
 
+> AI Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/openai/openai-icon.svg" width="48" height="48" alt="chatgpt" />
+      </a>
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/perplexity/perplexity-ai-icon.svg" width="48" height="48" alt="perplexity" />
+      </a>
+      <br>Perplexity
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/gemini/google-gemini-icon.svg" width="48" height="48" alt="gemini" />
+      </a>
+      <br>Gemini
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/copilot/copilot-icon.svg" width="48" height="48" alt="copilot" />
+      </a>
+      <br>Copilot
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/replit/replit-original.svg" width="48" height="48" alt="replit" />
+      </a>
+      <br>Replit
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/cursor/cursor-ai-code-icon.svg" width="48" height="48" alt="cursor" />
+      </a>
+      <br>Cursor
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/claude/claude-ai-icon.svg" width="48" height="48" alt="claude" />
+      </a>
+      <br>Claude
+    </td>
+  </tr>  
+  </tr>
+</table>
+
 <h2 align="left" id="JordanDaudu">⌨️ I’m working on</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/cv.png" width="320" height="350" />
 
