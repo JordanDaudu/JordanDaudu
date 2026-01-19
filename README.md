@@ -91,6 +91,12 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="./icons/qase/qase logo.jpeg" width="48" height="48" alt="qase" />
+      </a>
+      <br>Qase
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
@@ -125,6 +131,12 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
         <img src="./icons/clion/clion-original.svg" width="48" height="48" alt="clion" />
       </a>
       <br>CLion
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/webstorm/webstorm-original.svg" width="48" height="48" alt="webstorm" />
+      </a>
+      <br>Webstorm
     </td>
   </tr>  
   </tr>
