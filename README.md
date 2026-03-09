@@ -10,7 +10,7 @@ Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLF
 <h2 align="left" id="JordanDaudu">🙋‍♂️ About Me</h2>
 
 <img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/img2.png" width="140" height="100" />
-Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>. Currently, I'm focused on learning and deepening my understanding of python and java.
+Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>. Currently, I'm focused on learning and deepening my understanding of python and C#.
 
 <h2 align="left" id="JordanDaudu">💻 Dev-Hub</h2>
 
@@ -194,11 +194,16 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 </table>
 
 <h2 align="left" id="JordanDaudu">⌨️ I’m working on</h2>
+<img align="right" alt="PHOTO" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/Nomad_Protocol_Aeterra_Banner.png" width="307" height="204"/>
+
+- Actively developing **Nomad Protocol: Aeterra**, a top-down shooter in Unity focused on modular system design, enemy behaviors, combat architecture, and scalable gameplay features.
+- You can also explore the project further on my [website](https://nomad-protocol-aeterra-website.onrender.com/), where I present its world, direction, and overall vision.  
+It offers a broader showcase of the project beyond the repository, including its style, systems, and ongoing development.
+<br>
+
+---
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/cv.png" width="320" height="350" />
-
-
-- Learning advanced object oriented programming using java in SCE
-
 ### 📫 How to reach me
 
 <table>
@@ -219,7 +224,3 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 </table>
 
 <br><br>
-<h2 align="left" id="JordanDaudu">🔥 My stats: </h2>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jordandaudu&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="jordandaudu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandaudu&show_icons=true&locale=en&layout=compact&theme=radical&hide=ShaderLab,HLSL,Cmake" alt="jordandaudu" /></p>
