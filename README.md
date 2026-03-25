@@ -63,12 +63,6 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
   </tr>  
   </tr>
 </table>
