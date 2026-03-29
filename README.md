@@ -191,7 +191,7 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
 <img align="right" alt="PHOTO" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/Nomad_Protocol_Aeterra_Banner.png" width="307" height="204"/>
 
 - Actively developing **Nomad Protocol: Aeterra**, a top-down shooter in Unity focused on modular system design, enemy behaviors, combat architecture, and scalable gameplay features.
-- You can also explore the project further on my [website](https://nomad-protocol-aeterra-website.onrender.com/), where I present its world, direction, and overall vision.  
+- You can also explore the project further on my [website](https://nomad-protocol-aeterra.onrender.com/), where I present its world, direction, and overall vision.  
 It offers a broader showcase of the project beyond the repository, including its style, systems, and ongoing development.
 <br>
 
