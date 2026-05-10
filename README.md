@@ -1,6 +1,6 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
-Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+Hi there, my name is Jordan Daudu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 </h3>
 
 <p align="center">
@@ -9,14 +9,22 @@ Hi there, my name is Jordan Dudu <img src="https://media.giphy.com/media/hvRJCLF
 
 <h2 align="left" id="JordanDaudu">🙋‍♂️ About Me</h2>
 
-<img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/img2.png" width="140" height="100" />
-Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon College of Engineering</strong>. Currently, I'm focused on learning and deepening my understanding of python and C#.
+<img align="right" alt="Developer workspace illustration" src="https://raw.githubusercontent.com/JordanDaudu/JordanDaudu/refs/heads/main/img2.png" width="190" />
+Hi, I'm a <strong>Software Engineering student</strong> at <strong>Sami Shamoon College of Engineering</strong>. 
+I'm focused on building full-stack applications, backend systems, and clean software architectures using technologies such as Java, Spring Boot, PostgreSQL, Docker, and cloud-ready development workflows.
+
+<p align="left">
+  🐳 Docker enthusiast<br>
+  ⚙️ Interested in CI/CD, automation, and clean delivery workflows<br>
+  🏠 Exploring self-hosting and homelab setups<br>
+  📚 Always learning, building, and improving
+</p>
 
 <h2 align="left" id="JordanDaudu">💻 Dev-Hub</h2>
 
-<img align="right" alt="IMAGE" src="img1-PNG.png" width="160" height="200" />
+<img align="right" alt="Development tools illustration" src="img1-PNG.png" width="220" />
 
-> Programming languages
+> Programming Languages
 
 <table>
   <tr>
@@ -44,13 +52,44 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
       </a>
       <br>C#
     </td>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="./icons/godot/godot-original.svg" width="48" height="48" alt="GDScript" />
       </a>
       <br>GDScript
     </td>
+  </tr>
+</table>
+
+> Backend & Databases
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/java/java-original.svg" width="48" height="48" alt="Java Backend" />
+      </a>
+      <br>Java Backend
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+> Frontend Basics
+
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="./icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
@@ -63,19 +102,18 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
       </a>
       <br>CSS
     </td>
-  </tr>  
   </tr>
 </table>
 
-> Tools
+> DevOps & Version Control
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/github/github.png" width="48" height="48" alt="Github" />
+        <img src="./icons/docker/docker-original.svg" width="60" height="48" alt="Docker" />
       </a>
-      <br>Github
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -85,9 +123,54 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/qase/qase logo.jpeg" width="48" height="48" alt="qase" />
+        <img src="./icons/github/github.png" width="48" height="48" alt="GitHub" />
       </a>
-      <br>Qase
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+> Tools & IDEs
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+      </a>
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/clion/clion-original.svg" width="48" height="48" alt="CLion" />
+      </a>
+      <br>CLion
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/webstorm/webstorm-original.svg" width="48" height="48" alt="WebStorm" />
+      </a>
+      <br>WebStorm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/replit/replit-original.svg" width="48" height="48" alt="Replit" />
+      </a>
+      <br>Replit
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -97,42 +180,10 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+        <img src="./icons/qase/qase logo.jpeg" width="48" height="48" alt="Qase" />
       </a>
-      <br>VSCode
+      <br>Qase
     </td>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/postgresql/postgresql-original.svg" width="48" height="48" alt="pycharm" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/pycharm/pycharm-original.svg" width="48" height="48" alt="pycharm" />
-      </a>
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/intellij/intellij-original.svg" width="48" height="48" alt="intellij" />
-      </a>
-      <br>Intellij Idea
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/clion/clion-original.svg" width="48" height="48" alt="clion" />
-      </a>
-      <br>CLion
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/webstorm/webstorm-original.svg" width="48" height="48" alt="webstorm" />
-      </a>
-      <br>Webstorm
-    </td>
-  </tr>  
   </tr>
 </table>
 
@@ -142,48 +193,42 @@ Hi I'm a <strong>software engineer</strong> student at <strong>Sami Shamoon Coll
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/openai/openai-icon.svg" width="48" height="48" alt="chatgpt" />
+        <img src="./icons/openai/openai-icon.svg" width="48" height="48" alt="ChatGPT" />
       </a>
       <br>ChatGPT
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/perplexity/perplexity-ai-icon.svg" width="48" height="48" alt="perplexity" />
-      </a>
-      <br>Perplexity
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/gemini/google-gemini-icon.svg" width="48" height="48" alt="gemini" />
-      </a>
-      <br>Gemini
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/copilot/copilot-icon.svg" width="48" height="48" alt="copilot" />
+        <img src="./icons/copilot/copilot-icon.svg" width="48" height="48" alt="GitHub Copilot" />
       </a>
       <br>Copilot
     </td>
-  <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/replit/replit-original.svg" width="48" height="48" alt="replit" />
+        <img src="./icons/gemini/google-gemini-icon.svg" width="48" height="48" alt="Gemini" />
       </a>
-      <br>Replit
+      <br>Gemini
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icons/cursor/cursor-ai-code-icon.svg" width="48" height="48" alt="cursor" />
-      </a>
-      <br>Cursor
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icons/claude/claude-ai-icon.svg" width="48" height="48" alt="claude" />
+        <img src="./icons/claude/claude-ai-icon.svg" width="48" height="48" alt="Claude" />
       </a>
       <br>Claude
     </td>
-  </tr>  
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/cursor/cursor-ai-code-icon.svg" width="48" height="48" alt="Cursor" />
+      </a>
+      <br>Cursor
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/perplexity/perplexity-ai-icon.svg" width="48" height="48" alt="Perplexity" />
+      </a>
+      <br>Perplexity
+    </td>
   </tr>
 </table>
 
