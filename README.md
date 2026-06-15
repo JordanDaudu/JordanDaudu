@@ -59,6 +59,14 @@ I'm focused on building full-stack applications, backend systems, and clean soft
       <br>GDScript
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
 </table>
 
 > Backend & Databases
@@ -76,6 +84,12 @@ I'm focused on building full-stack applications, backend systems, and clean soft
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       </a>
       <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
     </td>
     <td align="center" width="96">
       <a href="#">
